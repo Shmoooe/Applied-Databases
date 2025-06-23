@@ -8,7 +8,7 @@ def connect_mysql():
         conn = pymysql.connect(
             host="localhost",
             user="root",
-            password="root",
+            password="blueSky73!",
             db="appdbproj",
             cursorclass=pymysql.cursors.DictCursor
             )
