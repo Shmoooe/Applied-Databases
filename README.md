@@ -1,6 +1,25 @@
 # Applied-Databases
 
-This is a project to demonstrate my ability to connect python with MySQL and Neo4j databases. When running main.py, the user will be prompted to make a choice from the menu below:
+This is a project to demonstrate my ability to connect python with MySQL and Neo4j databases.
+
+In this repository you will find:
+
+1. ```Databases```- contains the database files.
+
+2. ```images``` - contains an image used withing this README file.
+
+3. ```.gitignore```
+
+4. ```README.md```
+
+5. ```connect_mysql.py```
+
+6. ```connect_neo4j.py```
+
+7. ```main.py```
+
+
+When running main.py, the user will be prompted to make a choice from the menu below:
 
 ```
 MoviesDB
