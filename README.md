@@ -37,6 +37,16 @@ It's important to download the community edition.
 
 ```pip install neo4j```
 
+To initiate your local host, you will paste the path of your neo4j bin folder into your command line e.g. 
+```
+cd C:\Users\joann\Downloads\neo4j-community-2025.05.0\bin
+```
+and run the command:
+```
+neo4j. bat console
+```
+
+
 Change the name of the default database to "appdbproj", by opening your neo4j community edition folder and finding the "conf" file.
 ```#initial.dbms.default_database=appdbproj```
 
