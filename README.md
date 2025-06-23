@@ -25,7 +25,7 @@ To run the project, you will need to have the following programs in your environ
 
 2. [neo4j community edition for windows](https://neo4j.com/deployment-center/)
 
-![image](Final Project/G00439447/PythonApp/images/neo4j_download.png)
+![image](images/neo4j_download.png)
 
 It's important to download the community edition.
 
