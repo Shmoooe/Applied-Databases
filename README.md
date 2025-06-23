@@ -12,11 +12,11 @@ In this repository you will find:
 
 4. ```README.md```
 
-5. ```connect_mysql.py```
+5. ```connect_mysql.py``` - not available publicly as it contains a password for connecting to MySQL
 
-6. ```connect_neo4j.py```
+6. ```connect_neo4j.py``` - driver for connecting to neo4j database.
 
-7. ```main.py```
+7. ```main.py``` - contains all code and can be run from the command line.
 
 
 When running main.py, the user will be prompted to make a choice from the menu below:
